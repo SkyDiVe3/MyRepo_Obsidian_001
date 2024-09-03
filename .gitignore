@@ -1,0 +1,9 @@
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
